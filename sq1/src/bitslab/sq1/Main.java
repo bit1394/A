@@ -17,8 +17,8 @@ public class Main extends Activity implements OnClickListener{
 	TextView tvAns1, tvAns2;
 	Button btnSolve, btnNew, btnExit;
 	
-	String NoSolves = "–¿÷»ŒÕ¿À‹Õ€’  Œ–Õ≈… Õ≈“";
-	String AnySolve = "X - Àﬁ¡Œ≈ ◊»—ÀŒ";
+	String NoSolves = "No solves";
+	String AnySolve = "X - any number";
 	
 	DecimalFormat df = new DecimalFormat("#.##");
 
