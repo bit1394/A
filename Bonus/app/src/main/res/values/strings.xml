@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Bonus</string>
+    <string name="appName">Рассчет чаевых</string>
+    <string name="btnGo">Рассчитать</string>
+</resources>
